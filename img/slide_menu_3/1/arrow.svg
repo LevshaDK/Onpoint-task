@@ -1,0 +1,59 @@
+<svg id="arrows" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="811" height="318" viewBox="0 0 811 318">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        filter: url(#filter-4);
+      }
+
+      .cls-5 {
+        filter: url(#filter-5);
+      }
+    </style>
+    <filter id="filter" x="0.469" y="0.344" width="315.062" height="265.469" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="495.469" y="0.344" width="315.062" height="265.469" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="395.438" y="63.563" width="10.781" height="133.656" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="10" y="307" width="121" height="11" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="663" y="307" width="132" height="11" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Rectangle_11_copy_26" data-name="Rectangle 11 copy 26" class="cls-1" d="M315.531,1.675L314.325,0.34,13.279,252.935l1.206,1.335ZM18.161,257.006L10.924,249,0.455,265.814Z"/>
+  <path id="Rectangle_11_copy_38" data-name="Rectangle 11 copy 38" class="cls-2" d="M495.469,1.675l1.206-1.335,301.046,252.6-1.206,1.335Zm297.37,255.331L800.076,249l10.469,16.817Z"/>
+  <path id="Rectangle_11_copy_33" data-name="Rectangle 11 copy 33" class="cls-3" d="M402.731,63.571l-1.8-.017-1,115.512,1.8,0.017Zm3.5,114.662-10.794-.105,5.275,19.1Z"/>
+  <path id="Rectangle_11_copy_36" data-name="Rectangle 11 copy 36" class="cls-4" d="M10.008,310.558l-0.017,1.836L112.8,313.417l0.018-1.836Zm101.957-3.57L111.86,318,131,312.618Z"/>
+  <path id="Rectangle_11_copy_37" data-name="Rectangle 11 copy 37" class="cls-5" d="M794.992,310.558l0.017,1.836L681.2,313.417l-0.018-1.836Zm-112.957-3.57L682.14,318,663,312.618Z"/>
+</svg>
