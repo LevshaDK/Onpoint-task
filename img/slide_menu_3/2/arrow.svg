@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="921" height="416" viewBox="0 0 921 416">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        filter: url(#filter-4);
+      }
+
+      .cls-5 {
+        filter: url(#filter-5);
+      }
+
+      .cls-6 {
+        filter: url(#filter-6);
+      }
+
+      .cls-7 {
+        filter: url(#filter-7);
+      }
+
+      .cls-8 {
+        filter: url(#filter-8);
+      }
+    </style>
+    <filter id="filter" x="0.594" y="222.094" width="72.063" height="10.75" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="842" y="222" width="79" height="11" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="764" y="0" width="11" height="68" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="461" y="0" width="11" height="68" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="145" y="0" width="11" height="68" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="145" y="350" width="11" height="65" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="460" y="351" width="11" height="65" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-8" x="764" y="351" width="11" height="65" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Rectangle_11_copy_27" data-name="Rectangle 11 copy 27" class="cls-1" d="M0.6,226.754v1.789l53.868-.189v-1.789ZM53.57,222.1L53.564,232.83l19.1-5.431Z"/>
+  <path id="Rectangle_11_copy_28" data-name="Rectangle 11 copy 28" class="cls-2" d="M921,228.231V226.4l-60.814.193v1.831ZM861.076,233l0.007-10.983-19.092,5.558Z"/>
+  <path id="Rectangle_11_copy_29" data-name="Rectangle 11 copy 29" class="cls-3" d="M770.231,0H768.4l0.193,49.814h1.831ZM775,48.924l-10.983-.006,5.558,19.092Z"/>
+  <path id="Rectangle_11_copy_30" data-name="Rectangle 11 copy 30" class="cls-4" d="M467.231,0H465.4l0.193,49.814h1.831ZM472,48.924l-10.983-.006,5.558,19.092Z"/>
+  <path id="Rectangle_11_copy_31" data-name="Rectangle 11 copy 31" class="cls-5" d="M151.231,0H149.4l0.193,49.814h1.831ZM156,48.924l-10.983-.006,5.558,19.092Z"/>
+  <path id="Rectangle_11_copy_32" data-name="Rectangle 11 copy 32" class="cls-6" d="M149.769,415h1.83l-0.193-46.814h-1.831ZM145,369.076l10.983,0.007-5.558-19.092Z"/>
+  <path id="Rectangle_11_copy_34" data-name="Rectangle 11 copy 34" class="cls-7" d="M464.769,416h1.83l-0.193-46.814h-1.831ZM460,370.076l10.983,0.007-5.558-19.092Z"/>
+  <path id="Rectangle_11_copy_35" data-name="Rectangle 11 copy 35" class="cls-8" d="M768.769,416h1.83l-0.193-46.814h-1.831ZM764,370.076l10.983,0.007-5.558-19.092Z"/>
+</svg>
