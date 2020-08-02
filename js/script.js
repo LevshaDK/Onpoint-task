@@ -23,7 +23,6 @@ function TouchMove(event){
 	
 
 	if (slide_change==0){
-		console.log(clientY_move);
 		if(clientY_move <= (clientY_touch-100) && slide < slide_max){
 			document.getElementById("circle"+slide+"").classList.remove('circle_active');
 			slide += 1;
