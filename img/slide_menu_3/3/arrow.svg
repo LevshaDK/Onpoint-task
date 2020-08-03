@@ -1,0 +1,32 @@
+<svg id="arrows" xmlns="http://www.w3.org/2000/svg" width="1017" height="645" viewBox="0 0 1017 645">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M448.844,86.813h1.812V501.469h-1.812V86.813Zm-4.561,413.762H455.2l-5.457,19.075Z"/>
+  <path id="Rectangle_11_copy_16" data-name="Rectangle 11 copy 16" class="cls-1" d="M373.522,81.638l1.114,1.438L22.265,359.4l-1.114-1.439ZM19.076,353.819l6.68,8.629-18.428,7.36Z"/>
+  <path id="Rectangle_11_copy_4" data-name="Rectangle 11 copy 4" class="cls-1" d="M495.219,86.813h1.812V210.469h-1.812V86.813ZM490.67,209.583h10.913l-5.456,19.075Z"/>
+  <path id="Rectangle_11_copy_6" data-name="Rectangle 11 copy 6" class="cls-1" d="M495.219,360.531h1.812v18.188h-1.812V360.531Zm-4.549,17.281h10.913l-5.456,19.076Z"/>
+  <path id="Rectangle_11_copy_7" data-name="Rectangle 11 copy 7" class="cls-1" d="M495.219,457.188h1.812v45.187h-1.812V457.188Zm-4.549,44.3h10.913l-5.456,19.076Z"/>
+  <path id="Rectangle_11_copy_18" data-name="Rectangle 11 copy 18" class="cls-1" d="M4.688,428.094H6.5v28.187H4.688V428.094Zm-4.541,27.3H11.06L5.6,474.465Z"/>
+  <path id="Rectangle_11_copy_8" data-name="Rectangle 11 copy 8" class="cls-1" d="M472.469,597.844h1.812v28.219h-1.812V597.844Zm-4.538,27.311h10.913l-5.456,19.075Z"/>
+  <path id="Rectangle_11_copy_9" data-name="Rectangle 11 copy 9" class="cls-1" d="M426.094,616.031h1.812V644.25h-1.812V616.031Zm-4.55.91h10.913L427,597.865Z"/>
+  <path id="Rectangle_11_copy_11" data-name="Rectangle 11 copy 11" class="cls-1" d="M1009.69,138.625h1.81v28.219h-1.81V138.625Zm-4.56,27.309h10.91l-5.45,19.076Z"/>
+  <path id="Rectangle_11_copy_11-2" data-name="Rectangle 11 copy 11" class="cls-1" d="M987.281,156.813h1.813v28.218h-1.813V156.813Zm-4.54.908h10.913L988.2,138.645Z"/>
+  <path id="Rectangle_11_copy_5" data-name="Rectangle 11 copy 5" class="cls-1" d="M402.438,86.813h1.812V210.469h-1.812V86.813ZM397.9,209.583h10.913l-5.456,19.075Z"/>
+  <path id="Rectangle_11_copy_10" data-name="Rectangle 11 copy 10" class="cls-1" d="M402.438,401.719h1.812V502.375h-1.812V401.719ZM397.9,501.483h10.913l-5.456,19.076Z"/>
+  <path id="Rectangle_11_copy_17" data-name="Rectangle 11 copy 17" class="cls-1" d="M94.844,553.313H218.531v1.812H94.844v-1.812Zm122.807,6.352v-10.91l19.08,5.455Z"/>
+  <path id="Rectangle_11_copy" data-name="Rectangle 11 copy" class="cls-1" d="M579.8,1.995l0.264-1.8L787.878,30.63l-0.263,1.8ZM786.072,36.8L787.651,26,805.74,34.16Z"/>
+  <path id="Rectangle_11_copy_19" data-name="Rectangle 11 copy 19" class="cls-1" d="M62.449,442.535l0.8-1.635,159.631,77.576-0.8,1.634ZM219.281,523.8L224.067,514l14.755,13.268Z"/>
+  <path id="Rectangle_11_copy_2" data-name="Rectangle 11 copy 2" class="cls-1" d="M799.011,50.459l-0.263,1.788L591.277,22l0.263-1.788ZM593.08,15.872L591.5,26.6l-18.06-8.107Z"/>
+  <path id="Rectangle_11_copy_3" data-name="Rectangle 11 copy 3" class="cls-1" d="M314.227,2.214l-0.263-1.792-207.481,30.3,0.263,1.792ZM108.286,36.866L106.71,26.117,88.649,34.239Z"/>
+  <path id="Rectangle_11_copy_3-2" data-name="Rectangle 11 copy 3" class="cls-1" d="M95.368,50.467l0.262,1.781L302.772,22.133l-0.263-1.781Zm205.6-34.436,1.574,10.682,18.031-8.072Z"/>
+  <path id="Rectangle_11_copy_12" data-name="Rectangle 11 copy 12" class="cls-1" d="M344.558,62.358L343.635,60.8,93.114,208.429l0.923,1.558ZM97.112,213.427l-5.536-9.348-13.63,14.364Z"/>
+  <path id="Rectangle_11_copy_13" data-name="Rectangle 11 copy 13" class="cls-1" d="M89.638,231.14l0.918,1.548L341.515,85.132,340.6,83.584Zm247.9-150.972,5.509,9.287,13.622-14.306Z"/>
+  <path id="Rectangle_11_copy_14" data-name="Rectangle 11 copy 14" class="cls-1" d="M536.4,61.988l0.922-1.558,250.189,147.6-0.922,1.558ZM783.517,213.032l5.529-9.346,13.612,14.361Z"/>
+  <path id="Rectangle_11_copy_15" data-name="Rectangle 11 copy 15" class="cls-1" d="M790.981,230.742l-0.917,1.548L539.438,84.759l0.917-1.548ZM543.414,79.8l-5.5,9.286-13.6-14.3Z"/>
+</svg>
